@@ -23,5 +23,5 @@ The piecewise linear (PL) transformation has been widely applied to handle the l
 [2] **H. Guo**, H. Xu, Y. Wei, and Y. Shen, "Point Pairs Optimization for Piecewise Linear Transformation of Multimodal Remote Sensing Images by the Similarity of Log-Gabor Features," ***IEEE Geoscience and Remote Sensing Letters***, vol. 19, pp. 1-5, 2022, doi: <https://doi.org/10.1109/LGRS.2022.3207592>.<br> 
 ![Effectiveness of the proposed similarity metric.](GRSL_2022.jpg 'Effectiveness of the proposed similarity metric.')<br>
 <p align = "justify" style="line-height:150%">
-Aiming to optimize the feature points in the registration of multimodal remote sensing images, we proposed a novel similarity metric that combines the Log-Gabor features with structural similarity. The proposed similarity metric outperformed six other commonly used and state-of-the-art similarity measurements. 
+Aiming to optimize the feature points in the piecewise linear registration of multimodal remote sensing images, we proposed a novel similarity metric that combines the Log-Gabor features with structural similarity. The proposed similarity metric outperformed six other commonly-used and state-of-the-art similarity measurements. 
 </p>
