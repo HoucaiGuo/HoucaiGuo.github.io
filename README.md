@@ -10,6 +10,9 @@
   [ORCID](https://orcid.org/0000-0001-8275-5316)<br> 
   [Twitter](https://twitter.com/naivechild_ghc)<br> 
 
+## Visitors
+<a href="http://s01.flagcounter.com/more/MrL"><img src="https://s01.flagcounter.com/map/MrL/size_l/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
+
 # Selected Pulications  
 [1] **H. Guo**, H. Xu, Y. Wei, Y. Shen, and X. Rui, "Outlier Removal and Feature Point Pairs Optimization for Piecewise Linear Transformation in the Co-registration of Very High-resolution Optical Remote Sensing Imagery," ***ISPRS Journal of Photogrammetry and Remote Sensing***, vol. 193, pp. 299-313, 2022, doi: https://doi.org/10.1016/j.isprsjprs.2022.09.008.<br> 
 
