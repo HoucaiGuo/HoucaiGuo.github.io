@@ -15,7 +15,7 @@
 
 # Selected Pulications  
 [1] **H. Guo**, H. Xu, Y. Wei, Y. Shen, and X. Rui, "Outlier Removal and Feature Point Pairs Optimization for Piecewise Linear Transformation in the Co-registration of Very High-resolution Optical Remote Sensing Imagery," ***ISPRS Journal of Photogrammetry and Remote Sensing***, vol. 193, pp. 299-313, 2022, doi: <https://doi.org/10.1016/j.isprsjprs.2022.09.008>.<br> 
-![Flow chart of the proposed registration framework.](ISPRS_2022.jpg 'Flow chart of the proposed registration framework.')<br>
+![Flowchart of the proposed registration framework.](ISPRS_2022.jpg 'Flowchart of the proposed registration framework.')<br>
 <p align = "justify" style="line-height:150%">
 The piecewise linear (PL) transformation has been widely applied to handle the local deformations between very high-resolution remote sensing images. However, PL transformation is very sensitive to the mis-matched points, i.e., the outliers. In this paper, we first proposed an outlier removal method that considers the intrinsic characteristic of the PL transformation. After that, the feature points were optimized by maximizing the similarity between the fixed and the registered images to further improve the registration accuracy of the PL transformation.<br>
 </p>
