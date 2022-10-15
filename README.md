@@ -13,8 +13,3 @@
 
 [2] **H. Guo**, H. Xu, Y. Wei, and Y. Shen, "Point Pairs Optimization for Piecewise Linear Transformation of Multimodal Remote Sensing Images by the Similarity of Log-Gabor Features," ***IEEE Geoscience and Remote Sensing Letters***, vol. 19, pp. 1-5, 2022, doi: https://doi.org/10.1109/LGRS.2022.3207592.<br> 
 
-# Introduction to My Past Works  
-
-
-
-
