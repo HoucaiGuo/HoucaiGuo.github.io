@@ -1,5 +1,7 @@
 # Biography
-  My name is Houcai Guo. I'm now a Master's student at the School of Geography, Nanjing Normal University. My current research interests include the registration, spatial-temporal fusion, and time-series analysis of remote sensing images.  
+  My name is Houcai Guo.  
+  I recieved the B.Sc. degree in Geographic Information Science from Henan University of Economics and Law, Zhengzhou, China in 2020. I am currently persuing the M.Sc degree in Remote Sensing of Geographical Environment at the School of Geography, Nanjing Normal University. 
+  My current research interests include the registration, spatial-temporal fusion, and time-series analysis of remote sensing images.  
 ## External links  
   [E-mail](mailto:guohoucai@nnu.edu.cn)  
   [ORCID](https://orcid.org/0000-0001-8275-5316)  
