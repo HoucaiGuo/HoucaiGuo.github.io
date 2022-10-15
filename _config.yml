@@ -1,7 +1,7 @@
 title: Houcai Guo
 description: Houcai Guo's personal homepage.
 show_downloads: false
-logo: 333.jpg
+logo: Houcai Guo.jpg
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
