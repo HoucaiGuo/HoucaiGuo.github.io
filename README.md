@@ -5,7 +5,10 @@
   [Twitter](https://twitter.com/naivechild_ghc)  
 # Pulications  
 [1] **H. Guo**, H. Xu, Y. Wei, Y. Shen, and X. Rui, "Outlier Removal and Feature Point Pairs Optimization for Piecewise Linear Transformation in the Co-registration of Very High-resolution Optical Remote Sensing Imagery," ***ISPRS Journal of Photogrammetry and Remote Sensing***, vol. 193, pp. 299-313, 2022, doi: https://doi.org/10.1016/j.isprsjprs.2022.09.008.  
+
 [2] **H. Guo**, H. Xu, Y. Wei, and Y. Shen, "Point Pairs Optimization for Piecewise Linear Transformation of Multimodal Remote Sensing Images by the Similarity of Log-Gabor Features," ***IEEE Geoscience and Remote Sensing Letters***, vol. 19, pp. 1-5, 2022, doi: 10.1109/LGRS.2022.3207592.  
+
+
 
 
 
