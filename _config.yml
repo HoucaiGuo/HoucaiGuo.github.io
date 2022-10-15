@@ -3,5 +3,5 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: Houcai Guo
 description: Houcai Guo's personal homepage.
-show_downloads: true
+show_downloads: false
 icon: 333.jpg
