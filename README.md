@@ -1,10 +1,9 @@
 # Biography
-<p align = "justify" style="line-height:150%">
   My name is Houcai Guo. I received the M.Sc. degree in Remote Sensing of Geographical Environment from the [School of Geography](http://dky.njnu.edu.cn/), Nanjing Normal University, Nanjing, China, in June 2023.<br>
   My current research interests include the spatiotemporal fusion, registration, and time-series analysis of remote sensing images.<br>
   I am a Graduate Student Member of the [Geoscience and Remote Sensing Society](https://www.grss-ieee.org), IEEE.<br>
 </p>
-[School of Geography](http://dky.njnu.edu.cn/)
+
 ## External Links
   [E-mail](mailto:guohoucai@nnu.edu.cn)<br> 
   [ORCID](https://orcid.org/0000-0001-8275-5316)<br> 
