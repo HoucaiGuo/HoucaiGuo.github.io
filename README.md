@@ -1,5 +1,5 @@
 # Biography
-  My name is Houcai Guo. I received the M.Sc. degree in Remote Sensing of Geographical Environment from the [School of Geography](http://dky.njnu.edu.cn/), [Nanjing Normal University](https://www.nnu.edu.cn/), Nanjing, China, in June 2023.<br>
+  My name is Houcai Guo. I received the M.Sc. degree in Remote Sensing of Geographical Environment from the [School of Geography](http://dky.njnu.edu.cn/), [Nanjing Normal University](https://www.nnu.edu.cn/), Nanjing, China, in June 2023. I am currently a PhD student at the [Remote Sensing Laboratory](https://rslab.disi.unitn.it/), University of Trento, Italy.<br>
   <p align = "justify" style="line-height:150%">My current research interests include the spatiotemporal fusion, registration, and time-series analysis of remote sensing images.<br></p>
   I am a Graduate Student Member of the [Geoscience and Remote Sensing Society](https://www.grss-ieee.org), [IEEE](https://www.ieee.org/).<br>
 
