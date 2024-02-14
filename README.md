@@ -12,7 +12,7 @@
 <a href="http://s01.flagcounter.com/more/MrL"><img src="https://s01.flagcounter.com/map/MrL/size_l/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
 
 # Selected Pulications  
-[1] **H. Guo**, D. Ye, H. Xu, and L. Bruzzone, "OBSUM: An object-based spatial unmixing model for spatiotemporal fusion of remote sensing images," ***Remote Sensing of Environment***, vol. 304, p. 114046, 2024, doi: https://doi.org/10.1016/j.rse.2024.114046..<br> 
+[1] **H. Guo**, D. Ye, H. Xu, and L. Bruzzone, "OBSUM: An object-based spatial unmixing model for spatiotemporal fusion of remote sensing images," ***Remote Sensing of Environment***, vol. 304, p. 114046, 2024, doi: https://doi.org/10.1016/j.rse.2024.114046.<br> 
 ![Comparision with state-of-the-art methods.](RSE_2024-1.png 'Comparision with state-of-the-art methods.')<br>
 ![Comparision with state-of-the-art methods (sub-area).](RSE_2024-2.png 'Comparision with state-of-the-art methods (sub-area).')<br>
 <p align = "justify" style="line-height:150%">
