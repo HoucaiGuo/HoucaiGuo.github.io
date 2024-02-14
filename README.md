@@ -13,8 +13,8 @@
 
 # Selected Pulications  
 [1] **H. Guo**, D. Ye, H. Xu, and L. Bruzzone, "OBSUM: An object-based spatial unmixing model for spatiotemporal fusion of remote sensing images," ***Remote Sensing of Environment***, vol. 304, p. 114046, 2024, doi: https://doi.org/10.1016/j.rse.2024.114046.<br> 
-![Comparision with state-of-the-art methods.](RSE_2024-1.png 'Comparision with state-of-the-art methods.')<br>
-![Comparision with state-of-the-art methods (sub-area).](RSE_2024-2.png 'Comparision with state-of-the-art methods (sub-area).')<br>
+![Comparision with state-of-the-art methods.](RSE_2024-1.jpg 'Comparision with state-of-the-art methods.')<br>
+![Comparision with state-of-the-art methods (sub-area).](RSE_2024-2.jpg 'Comparision with state-of-the-art methods (sub-area).')<br>
 <p align = "justify" style="line-height:150%">
 We propose an Object-Based Spatial Unmixing Model (OBSUM) to fuse images with different spatial and temporal resolutions. OBSUM is a hybrid method that utilizes object-level shape information to obtain more accurate fusion results. The experimental results demonstrate that OBSUM can retrieve both strong phenological changes and land-cover changes, thus outperforming the comparison methods in terms of visual effect and four accuracy indices. Benefiting from its accurate fusion performance, OBSUM has great potential for supporting various remote sensing applications at a fine spatial scale, such as dynamic crop progress monitoring and crop mapping. <br>
 </p>
