@@ -5,6 +5,8 @@
 
 ## External Links
   [E-mail](mailto:houcai.guo@unitn.it)<br> 
+  [Google Scholar](https://scholar.google.com/citations?user=fJqqXG4AAAAJ&hl=en)<br>
+  [ResearchGate](https://www.researchgate.net/profile/Houcai-Guo)<br>
   [ORCID](https://orcid.org/0000-0001-8275-5316)<br> 
   [Twitter](https://twitter.com/naivechild_ghc)<br> 
 
