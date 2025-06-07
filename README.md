@@ -8,7 +8,6 @@
   [Google Scholar](https://scholar.google.com/citations?user=fJqqXG4AAAAJ&hl=en)<br>
   [ResearchGate](https://www.researchgate.net/profile/Houcai-Guo)<br>
   [ORCID](https://orcid.org/0000-0001-8275-5316)<br> 
-  [Twitter](https://twitter.com/naivechild_ghc)<br> 
 
 ## Visitors
 <a href="http://s01.flagcounter.com/more/MrL"><img src="https://s01.flagcounter.com/map/MrL/size_l/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
